@@ -27,8 +27,8 @@
 ```
 <!-- 此处修改db连接属性 -->
 <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://sh-cdb-l4iwevbc.sql.tencentcdb.com:61681/yunjihappinesscollege" userId="yunjidevelop"
-                        password="yunjidevelopIdc123">
+                        connectionURL="jdbc:mysql://******/******" userId="*****"
+                        password="****">
 
             <!-- 设置 useInformationSchema 属性为 true -->
             <property name="useInformationSchema" value="true" />
